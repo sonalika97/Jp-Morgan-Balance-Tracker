@@ -6,7 +6,7 @@ I built it as part of a technical exercise to demonstrate:
 
  handling transactions safely,
  keeping only the most recent 1000 transactions,
- creating audit batches,
+ creating audit batches
  and showing everything in a simple UI.
 
 The project has three parts:
