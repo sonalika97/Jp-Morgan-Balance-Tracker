@@ -107,12 +107,7 @@ http://localhost:3000
 }
 
 
-This project does not use a database; everything is kept in memory.
-Thread-safety is handled using synchronized methods in the backend.
-The UI auto-refreshes every two seconds.
-The goal was clarity and correctness, not heavy styling.
 
-Why this project matters
 It shows the ability to:
 
 build a full stack application from scratch,
